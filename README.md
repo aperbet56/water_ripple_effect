@@ -6,7 +6,7 @@ Création de l'effet water ripple
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/water_ripple_effect/
 
 ## Projet développé avec
 
