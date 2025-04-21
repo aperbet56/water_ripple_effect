@@ -16,6 +16,8 @@ body,
     height: 100vh;
 }
 
+/**** div full__landing__image ****/
+
 .full__landing__image {
     background: url("https://i.postimg.cc/J07vSC9q/hero-background.jpg");
     background-size: cover;
