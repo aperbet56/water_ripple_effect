@@ -1,5 +1,7 @@
 ## WATER RIPPLE EFFECT 🌊
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Création de l'effet water ripple
